@@ -1,0 +1,97 @@
+﻿Symptom 1,Symptom 2,Symptom 3,Disease,Treatment,Surgery
+Chest pain (angina),indigestion or nausea,Dizziness,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Chest pain (angina),Dizziness,indigestion or nausea,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Chest pain (angina),indigestion or nausea,Cold sweats,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Chest pain (angina),Cold sweats,indigestion or nausea,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Chest pain (angina),Dizziness,Cold sweats,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Chest pain (angina),Cold sweats,Dizziness,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+indigestion or nausea,Chest pain (angina),Dizziness,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+indigestion or nausea,Dizziness,Chest pain (angina),coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+indigestion or nausea,Chest pain (angina),Cold sweats,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+indigestion or nausea,Cold sweats,Chest pain (angina),coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+indigestion or nausea,Dizziness,Cold sweats,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+indigestion or nausea,Cold sweats,Dizziness,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Dizziness,Chest pain (angina),indigestion or nausea,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Dizziness,indigestion or nausea,Chest pain (angina),coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Dizziness,Chest pain (angina),Cold sweats,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Dizziness,Cold sweats,Chest pain (angina),coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Dizziness,indigestion or nausea,Cold sweats,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Dizziness,Cold sweats,indigestion or nausea,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Cold sweats,indigestion or nausea,Chest pain (angina),coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Cold sweats,Chest pain (angina),indigestion or nausea,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Cold sweats,Dizziness,Chest pain (angina),coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Cold sweats,Chest pain (angina),Dizziness,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Cold sweats,indigestion or nausea,Dizziness,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Cold sweats,Dizziness,indigestion or nausea,coronary heart disease,"Quitting smoke, exercise, weight loss",Coronary Artery Bypass Grafting (CABG)
+Neck pain,instability,overactive reflexes,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Neck pain,Chest pain (angina),overactive reflexes,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Neck pain,Chest pain (angina),instability,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Neck pain,instability,Chest pain (angina),Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Neck pain,overactive reflexes,instability,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Neck pain,overactive reflexes,Chest pain (angina),Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Chest pain (angina),Neck pain,instability,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Chest pain (angina),instability,Neck pain,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Chest pain (angina),Neck pain,overactive reflexes,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Chest pain (angina),overactive reflexes,Neck pain,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Chest pain (angina),instability,overactive reflexes,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Chest pain (angina),overactive reflexes,instability,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+instability,Chest pain (angina),Neck pain,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+instability,Neck pain,Chest pain (angina),Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+instability,Chest pain (angina),overactive reflexes,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+instability,overactive reflexes,Chest pain (angina),Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+instability,Neck pain,overactive reflexes,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+instability,overactive reflexes,Neck pain,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+overactive reflexes,Chest pain (angina),Neck pain,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+overactive reflexes,Neck pain,Chest pain (angina),Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+overactive reflexes,Chest pain (angina),instability,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+overactive reflexes,instability,Chest pain (angina),Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+overactive reflexes,instability,Neck pain,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+overactive reflexes,Neck pain,instability,Arrhythmia,Healthy lifestyle changes,Cardiac ablation
+Dry or watery eyes, feeding difficulties ,Blurred Vision,stroke, tPA (clot buster),Carotid endarterectomy (CEA) 
+Dry or watery eyes,Blurred Vision, feeding difficulties ,stroke,tPA(clot buster),Carotid endarterectomy (CEA) 
+ feeding difficulties ,Blurred Vision,Dry or watery eyes,stroke, tPA (clot buster),Carotid endarterectomy (CEA) 
+ feeding difficulties ,Dry or watery eyes,Blurred Vision,stroke, tPA (clot buster),Carotid endarterectomy (CEA) 
+Blurred Vision, feeding difficulties ,Dry or watery eyes,stroke, tPA (clot buster),Carotid endarterectomy (CEA) 
+Blurred Vision,Dry or watery eyes, feeding difficulties ,stroke, tPA (clot buster),Carotid endarterectomy (CEA) 
+fainting,Difficulty breathing,shortness of breath,Pericarditis,anti-inflammatories,Pericardiectomy
+fainting,shortness of breath,Difficulty breathing,Pericarditis,anti-inflammatories,Pericardiectomy
+shortness of breath,fainting,Difficulty breathing,Pericarditis,anti-inflammatories,Pericardiectomy
+shortness of breath,Difficulty breathing,fainting,Pericarditis,anti-inflammatories,Pericardiectomy
+Difficulty breathing,fainting,shortness of breath,Pericarditis,anti-inflammatories,Pericardiectomy
+Difficulty breathing,shortness of breath,fainting,Pericarditis,anti-inflammatories,Pericardiectomy
+Blurred Vision,Low-grade fever,chest pressure,congenital heart disease,Medications,Open-Heart Surgery
+Blurred Vision,chest pressure,Low-grade fever,congenital heart disease,Medications,Open-Heart Surgery
+chest pressure,Blurred Vision,Low-grade fever,congenital heart disease,Medications,Open-Heart Surgery
+chest pressure,Low-grade fever,Blurred Vision,congenital heart disease,Medications,Open-Heart Surgery
+Low-grade fever,Blurred Vision,chest pressure,congenital heart disease,Medications,Open-Heart Surgery
+Low-grade fever,chest pressure,Blurred Vision,congenital heart disease,Medications,Open-Heart Surgery
+ feeding difficulties ,difficulty walking,Cold sweats,Cardiomyopathy,cardiac catheterization ,septal myectomy
+ feeding difficulties ,Cold sweats,difficulty walking,Cardiomyopathy,cardiac catheterization ,septal myectomy
+difficulty walking, feeding difficulties ,Cold sweats,Cardiomyopathy,cardiac catheterization ,septal myectomy
+difficulty walking,Cold sweats, feeding difficulties ,Cardiomyopathy,cardiac catheterization ,septal myectomy
+Cold sweats, feeding difficulties ,difficulty walking,Cardiomyopathy,cardiac catheterization ,septal myectomy
+Cold sweats,difficulty walking, feeding difficulties ,Cardiomyopathy,cardiac catheterization ,septal myectomy
+coughing,Neck pain,Blurred Vision,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+coughing,Blurred Vision,Neck pain,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+coughing,Neck pain,instability,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+coughing,instability,Neck pain,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+coughing,Blurred Vision,instability,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+coughing,instability,Blurred Vision,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Neck pain,coughing,Blurred Vision,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Neck pain,Blurred Vision,coughing,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Neck pain,coughing,instability,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Neck pain,instability,coughing,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Neck pain,Blurred Vision,instability,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Neck pain,instability,Blurred Vision,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Blurred Vision,coughing,Neck pain,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Blurred Vision,Neck pain,coughing,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Blurred Vision,coughing,instability,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Blurred Vision,instability,coughing,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Blurred Vision,Neck pain,instability,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+Blurred Vision,instability,Neck pain,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+instability,coughing,Blurred Vision,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+instability,Blurred Vision,coughing,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+instability,coughing,Neck pain,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+instability,Neck pain,coughing,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+instability,Neck pain,Blurred Vision,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
+instability,Blurred Vision,Neck pain,peripheral artery disease,"Tobacco cessation, exercise and a healthy diet ", bypass grafting
